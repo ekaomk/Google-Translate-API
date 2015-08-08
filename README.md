@@ -1,9 +1,9 @@
 # Unlimited Google Translate API
 
 ### What is "Unlimited Google Translate API"?
-> Unlimited Google Translate API is language translation API use of "Google Translate", use with automatically get Google API key, that mean you can use with/without API key. And if you use automatically get Google API key, you can use for translate unlimited times!!!
+Unlimited Google Translate API is language translation API use of "Google Translate", use with automatically get Google API key, that mean you can use with/without API key. And if you use automatically get Google API key, you can use for translate unlimited times!!!
  
->  
+
 ### How to use? view this sample.
 ```php
 // Sample to translate English to Thai
@@ -26,8 +26,8 @@ $result = translate('en', 'th', 'Hello World');
 ## Configuration
 
 #### Use your own Google Translate API key
-> If your don't need to get API key automatically for get more translate speed.
-> You can modify config file for that, but remember, if you use you own API key, you will has limited translate times.
+If your don't need to get API key automatically for get more translate speed.
+You can modify config file for that, but remember, if you use you own API key, you will has limited translate times.
 ###### In the "config.class.php" file, change "$useOwnAPIKey" to true and set your API key to "$apiKey" Like this
  
 ```php
