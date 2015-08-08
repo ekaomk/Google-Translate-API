@@ -28,7 +28,7 @@ $result = translate('en', 'th', 'Hello World');
 #### Use your own Google Translate API key
 If your don't need to get API key automatically for get more translate speed.
 You can modify config file for that, but remember, if you use you own API key, you will has limited translate times.
-###### In the "config.class.php" file, change "$useOwnAPIKey" to true and set your API key to "$apiKey" Like this
+##### In the "config.class.php" file, change "$useOwnAPIKey" to true and set your API key to "$apiKey" Like this
  
 ```php
   // If set $useOwnAPIKey to true, API will use your API Key instead automatically get api key ($apiKey variable)
