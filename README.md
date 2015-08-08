@@ -8,6 +8,18 @@
 // Sample to translate English to Thai
 $result = translate('en', 'th', 'Hello World');
 ```
+### Result
+```json
+{
+  "data": {
+    "translations": [
+      {
+        "translatedText": "สวัสดีชาวโลก"
+      }
+    ]
+  }
+}
+```
 ##### Wow! too easily? That all of this.
  
 ## Configuration
