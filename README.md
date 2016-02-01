@@ -1,4 +1,4 @@
-# Unlimited Google Translate API
+# Google Translate API
 
 ### What is "Unlimited Google Translate API"?
 Google Translate API is language translation API use of "Google Translate", use with automatically get Google API key, that mean you can use with/without API key.
